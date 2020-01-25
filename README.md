@@ -2,4 +2,4 @@
 it lab
 welcome
 namastee
-e sala cup namdhe
+e sala cup namdhe1
