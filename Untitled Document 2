@@ -1,0 +1,7 @@
+<html>
+<head>
+ <title>html frames</title>
+</head>
+<frameset rows="10%,80%,10%">
+ <frame name="top" src="re.html"/>
+ <frame name="main
